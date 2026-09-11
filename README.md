@@ -1,3 +1,6 @@
-# Gitflow Lab 5 - Develop Version
+# Gitflow Lab 5 - Conflict Resolved
 
-This version was created independently on develop.
+This README contains the resolved changes
+from develop and feature/conflict.
+
+The merge conflict was successfully resolved.
